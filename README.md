@@ -27,4 +27,3 @@ Built using Nodejs and Socket framework.It has the following features for users
 2. Basic HTML,CSS and JQuery
 3. Socket Programming
 
-Email : adriraj@itg.ac.in

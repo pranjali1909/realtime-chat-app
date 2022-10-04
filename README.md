@@ -27,10 +27,10 @@ Built using Nodejs and Socket framework.It has the following features for users
 2. Basic HTML,CSS and JQuery
 3. Socket Programming
 
-##Run in your Local PC
-1. npm i
-2. npm i socket.io
-3. cd server
-4. npm start / node server.js
+## Run in your Local PC
+<li> npm i
+<li> npm i socket.io
+<li> cd server
+<li> npm start / node server.js
 
 runs on localhost:3000
